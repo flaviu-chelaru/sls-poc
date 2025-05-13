@@ -9,3 +9,6 @@ Content-Type: application/json
 
 ### GET request with environment variables
 GET https://y7lv7m34uf.execute-api.us-east-1.amazonaws.com/users/testing
+
+### GET request index
+GET https://q3hknvgx51.execute-api.us-east-1.amazonaws.com
