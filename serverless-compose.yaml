@@ -1,0 +1,4 @@
+# serverless-compose.yml
+services:
+  simple-app:
+    path: simple-app

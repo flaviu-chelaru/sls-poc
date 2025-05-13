@@ -1,0 +1,7 @@
+{
+  "name": "poc-serverless",
+  "version": "1.0.0",
+  "description": "PoC For Lambda with serverless",
+  "main": "index.js",
+  "license": "MIT"
+}

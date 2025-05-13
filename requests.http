@@ -1,0 +1,11 @@
+### POST Create a new user
+POST https://y7lv7m34uf.execute-api.us-east-1.amazonaws.com/users
+Content-Type: application/json
+
+{
+  "userId": "testing",
+  "name": "fake user name"
+}
+
+### GET request with environment variables
+GET https://y7lv7m34uf.execute-api.us-east-1.amazonaws.com/users/testing
